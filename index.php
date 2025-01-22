@@ -1,3 +1,3 @@
 <?php
-   echo "PHP web hosting";
+	echo "PHP web hosting";
 ?>
